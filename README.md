@@ -24,10 +24,10 @@ npm run start
 ```
 
 ## How to Use This Application:
-Please provide the vehicle information as prompted to either create or select an existing vehicle and select the available actions for that vehicle class. 
+The user may provide the vehicle information as prompted to either create a vehicle or select an existing vehicle. The user may then enter the vehicle information as prompted for a created vehicle and select from a list of available actions for that vehicle class. Once finished, the user may exit the application.
 
 ## Walkthrough Demo Video
-A walkthrough demo video of the vehicle builder command-line application can be viewed here as well as via this [link](https://drive.google.com/file/d/1WB7zYiCoslizjyeDyCOK0rmXSSOUKd9U/view).
+A walkthrough demo video of the Vehicle Builder command-line application can be viewed via this [link](https://drive.google.com/file/d/1WB7zYiCoslizjyeDyCOK0rmXSSOUKd9U/view).
 
 ## License
 This application is covered by the MIT license.
