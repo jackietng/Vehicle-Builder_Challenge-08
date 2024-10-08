@@ -14,14 +14,20 @@ This is a TypeScript command-line application that builds and uses cars to have 
 * [Questions](#questions)
 
 ## Installation, Languages, & Dependencies
-To get started with the Vehicle Builder application, please ensure Node.js and inquirer, an npm product are first installed.  The application can be cloned by executing git clone https://github.com/jackietng/Vehicle-Builder_Challenge-08.git
+This application was created with TypeScript. To get started with the Vehicle Builder application, please ensure Node.js and inquirer, an npm product, are first installed.  The application can be accessed by executing: 
+``` 
+git clone https://github.com/jackietng/Vehicle-Builder_Challenge-08.git
+```
+Once cloned and the required dependencies are installed, the application can be run with the following command: 
+```
+npm run start
+```
 
 ## How to Use This Application:
 Please provide the vehicle information as prompted to either create or select an existing vehicle and select the available actions for that vehicle class. 
 
 ## Walkthrough Demo Video
-A walkthrough demo video of the vehicle builder command-line application can be viewed below and via the link provided. 
-<video src='' width=180 > 
+A walkthrough demo video of the vehicle builder command-line application can be viewed here as well as via this [link](https://drive.google.com/file/d/1WB7zYiCoslizjyeDyCOK0rmXSSOUKd9U/view).
 
 ## License
 This application is covered by the MIT license.
