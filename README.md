@@ -7,9 +7,9 @@ This is a TypeScript command-line application that builds and uses cars to have 
 
 ## Table of Contents
 * [Description](#description)
-* [Installation, Languages & Dependencies](#installationlanguagesanddependencies)
-* [How to Use This Application](#HowtoUseThisApplication)
-* [Walkthrough Demo Video](#walkthroughDemoVideo)
+* [Installation, Languages, and Dependencies](#installation-languages-and-dependencies)
+* [How to Use This Application](#how-to-use-this-application)
+* [Walkthrough Demo Video](#walkthrough-demo-video)
 * [License](#license)
 * [Questions](#questions)
 
