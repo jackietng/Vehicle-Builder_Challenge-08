@@ -14,7 +14,7 @@ This is a TypeScript command-line application that builds and uses cars to have 
 * [Questions](#questions)
 
 ## Installation, Languages, & Dependencies
-To get started with the Vehicle Builder application, please ensure Node.js and inquirer, an npm product, are first installed.  The application can be accessed by executing: 
+This application was created with TypeScript. To get started with the Vehicle Builder application, please ensure Node.js and inquirer, an npm product, are first installed.  The application can be accessed by executing: 
 ``` 
 git clone https://github.com/jackietng/Vehicle-Builder_Challenge-08.git
 ```
